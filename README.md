@@ -5,6 +5,3 @@
 * [Material Palette](https://www.materialpalette.com/)
 * [Coolors](https://coolors.co/app)
 * [Unplash](https://unsplash.com/)
-* [FontAwesome](https://fontawesome.com/)
-* [FontAwesome](https://fontawesome.com/)
-* [FontAwesome](https://fontawesome.com/)
